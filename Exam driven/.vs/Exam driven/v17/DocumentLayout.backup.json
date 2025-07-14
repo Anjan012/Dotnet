@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anjan\\source\\Dotnet\\Exam driven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FCF1E-3229-4D15-9981-03E104ADC2F5}|Exam driven\\Exam driven.csproj|c:\\users\\anjan\\source\\dotnet\\exam driven\\exam driven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FCF1E-3229-4D15-9981-03E104ADC2F5}|Exam driven\\Exam driven.csproj|solutionrelative:exam driven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anjan\\source\\Dotnet\\Exam driven\\Exam driven\\Program.cs",
+              "RelativeDocumentMoniker": "Exam driven\\Program.cs",
+              "ToolTip": "C:\\Users\\Anjan\\source\\Dotnet\\Exam driven\\Exam driven\\Program.cs",
+              "RelativeToolTip": "Exam driven\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:38:59.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

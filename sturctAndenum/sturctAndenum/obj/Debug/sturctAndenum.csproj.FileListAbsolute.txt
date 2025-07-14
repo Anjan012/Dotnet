@@ -1,0 +1,8 @@
+C:\Users\Anjan\source\Dotnet\sturctAndenum\sturctAndenum\obj\Debug\sturctAndenum.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\sturctAndenum\sturctAndenum\obj\Debug\sturctAndenum.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\sturctAndenum\sturctAndenum\bin\Debug\sturctAndenum.exe.config
+C:\Users\Anjan\source\Dotnet\sturctAndenum\sturctAndenum\bin\Debug\sturctAndenum.exe
+C:\Users\Anjan\source\Dotnet\sturctAndenum\sturctAndenum\bin\Debug\sturctAndenum.pdb
+C:\Users\Anjan\source\Dotnet\sturctAndenum\sturctAndenum\obj\Debug\sturctAndenum.exe
+C:\Users\Anjan\source\Dotnet\sturctAndenum\sturctAndenum\obj\Debug\sturctAndenum.pdb
+C:\Users\Anjan\source\Dotnet\sturctAndenum\sturctAndenum\obj\Debug\sturctAndenum.exe.config

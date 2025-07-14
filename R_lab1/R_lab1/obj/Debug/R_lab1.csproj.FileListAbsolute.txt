@@ -1,0 +1,8 @@
+C:\Users\Anjan\source\Dotnet\R_lab1\R_lab1\bin\Debug\R_lab1.exe.config
+C:\Users\Anjan\source\Dotnet\R_lab1\R_lab1\bin\Debug\R_lab1.exe
+C:\Users\Anjan\source\Dotnet\R_lab1\R_lab1\bin\Debug\R_lab1.pdb
+C:\Users\Anjan\source\Dotnet\R_lab1\R_lab1\obj\Debug\R_lab1.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\R_lab1\R_lab1\obj\Debug\R_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\R_lab1\R_lab1\obj\Debug\R_lab1.exe
+C:\Users\Anjan\source\Dotnet\R_lab1\R_lab1\obj\Debug\R_lab1.pdb
+C:\Users\Anjan\source\Dotnet\R_lab1\R_lab1\obj\Debug\R_lab1.exe.config

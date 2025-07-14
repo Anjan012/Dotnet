@@ -1,0 +1,8 @@
+C:\Users\Anjan\source\Dotnet\Mythirdprogram\Mythirdprogram\bin\Debug\Mythirdprogram.exe.config
+C:\Users\Anjan\source\Dotnet\Mythirdprogram\Mythirdprogram\bin\Debug\Mythirdprogram.exe
+C:\Users\Anjan\source\Dotnet\Mythirdprogram\Mythirdprogram\bin\Debug\Mythirdprogram.pdb
+C:\Users\Anjan\source\Dotnet\Mythirdprogram\Mythirdprogram\obj\Debug\Mythirdprogram.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\Mythirdprogram\Mythirdprogram\obj\Debug\Mythirdprogram.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\Mythirdprogram\Mythirdprogram\obj\Debug\Mythirdprogram.exe
+C:\Users\Anjan\source\Dotnet\Mythirdprogram\Mythirdprogram\obj\Debug\Mythirdprogram.pdb
+C:\Users\Anjan\source\Dotnet\Mythirdprogram\Mythirdprogram\obj\Debug\Mythirdprogram.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Anjan\source\Dotnet\My first project\My first project\bin\Debug\My first project.exe.config
+C:\Users\Anjan\source\Dotnet\My first project\My first project\bin\Debug\My first project.exe
+C:\Users\Anjan\source\Dotnet\My first project\My first project\bin\Debug\My first project.pdb
+C:\Users\Anjan\source\Dotnet\My first project\My first project\obj\Debug\My first project.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\My first project\My first project\obj\Debug\My first project.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\My first project\My first project\obj\Debug\My first project.exe
+C:\Users\Anjan\source\Dotnet\My first project\My first project\obj\Debug\My first project.pdb
+C:\Users\Anjan\source\Dotnet\My first project\My first project\obj\Debug\My first project.exe.config
