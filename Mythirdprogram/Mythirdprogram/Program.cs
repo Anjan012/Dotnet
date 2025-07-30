@@ -95,7 +95,7 @@ namespace Mythirdprogram
             //}
 
             // Array reversal-------------------
-            int[] numbers = new int[] { 1, 7, 3, 9, 5 };
+            //int[] numbers = new int[] { 1, 7, 3, 9, 5 };
 
             //Array.Reverse(numbers); // comes in handy when you have situations like the names or the price by ascending or descending it is a lot easier than going back to the database is that more data and more computational power on the backend 
 
@@ -119,6 +119,65 @@ namespace Mythirdprogram
             //{
             //    Console.Write(number + " ");
             //}
+
+            // Array clearing -------------------
+
+            //int[] numbers = new int[] { 0,1,2,3,4,5,6,7,8,9 };
+
+            //Array.Clear(numbers, 0, numbers.Length); // what actually it is doing when it means clear is that it is just actually assigning all the positins the value of zero 
+            //Array.Clear(numbers, 5, 5); // this will clear the last 5 elements of the array starting from index 5 and go up to 5 elements
+            //foreach (int number in numbers)
+            //{
+            //    Console.Write(number + " "); 
+            //}
+
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    numbers[i] = default; 
+            //    Console.WriteLine($"numbers[{i}] = {numbers[i]}"); // this will show the index and the value of the array
+            //}
+
+            //Array IndexOf -------------------
+            int[] numbers = new int[] { 0,1,2,3,4,5,6,7,8,9 };
+
+            Console.Write("Enter the number you want to search: ");
+            int searchNumber = Convert.ToInt32(Console.ReadLine());
+
+
+            //int position = Array.IndexOf(numbers, searchNumber); // if value is not found it will return -1, if found vale of 0
+            int position = Array.IndexOf(numbers, searchNumber, 0, numbers.Length); // Array.IndexOf(array, value, startIndex, count) 
+            // note: if you don't know where tha value is located you ca search entire array if you know the range you can specify the start index and the count of elements to search in the array.
+
+            if (position > -1)
+            {
+                Console.WriteLine($"The number {searchNumber} is found at index {position}.");
+            }
+            else
+            {
+                Console.WriteLine($"The number {searchNumber} is not found in the array.");
+            }
+
+            //Alternative:-
+            //int position = -1; 
+            //for(int i = 0; i < numbers.Length; i++)
+            //{
+            //    if(numbers[i] == searchNumber)
+            //    {
+            //        position = i;
+            //        break; // we can break the loop as soon as we find the number
+            //    }
+            //}
+            //if(position > -1)
+            //{
+            //    Console.WriteLine($"The number {searchNumber} is found at index {position}.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine($"The number {searchNumber} is not found in the array.");
+            //}
+
+            
+
 
         }
     }
