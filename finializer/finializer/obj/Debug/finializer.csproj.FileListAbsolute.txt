@@ -1,0 +1,7 @@
+C:\Users\Anjan\source\Dotnet\finializer\finializer\bin\Debug\finializer.exe.config
+C:\Users\Anjan\source\Dotnet\finializer\finializer\bin\Debug\finializer.exe
+C:\Users\Anjan\source\Dotnet\finializer\finializer\bin\Debug\finializer.pdb
+C:\Users\Anjan\source\Dotnet\finializer\finializer\obj\Debug\finializer.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\finializer\finializer\obj\Debug\finializer.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\finializer\finializer\obj\Debug\finializer.exe
+C:\Users\Anjan\source\Dotnet\finializer\finializer\obj\Debug\finializer.pdb

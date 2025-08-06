@@ -1,0 +1,8 @@
+C:\Users\Anjan\source\Dotnet\pr\pr\bin\Debug\pr.exe.config
+C:\Users\Anjan\source\Dotnet\pr\pr\bin\Debug\pr.exe
+C:\Users\Anjan\source\Dotnet\pr\pr\bin\Debug\pr.pdb
+C:\Users\Anjan\source\Dotnet\pr\pr\obj\Debug\pr.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\pr\pr\obj\Debug\pr.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\pr\pr\obj\Debug\pr.exe
+C:\Users\Anjan\source\Dotnet\pr\pr\obj\Debug\pr.pdb
+C:\Users\Anjan\source\Dotnet\pr\pr\obj\Debug\pr.exe.config

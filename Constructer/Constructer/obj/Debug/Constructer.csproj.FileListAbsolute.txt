@@ -1,0 +1,8 @@
+C:\Users\Anjan\source\Dotnet\Constructer\Constructer\bin\Debug\Constructer.exe.config
+C:\Users\Anjan\source\Dotnet\Constructer\Constructer\bin\Debug\Constructer.exe
+C:\Users\Anjan\source\Dotnet\Constructer\Constructer\bin\Debug\Constructer.pdb
+C:\Users\Anjan\source\Dotnet\Constructer\Constructer\obj\Debug\Constructer.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\Constructer\Constructer\obj\Debug\Constructer.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\Constructer\Constructer\obj\Debug\Constructer.exe
+C:\Users\Anjan\source\Dotnet\Constructer\Constructer\obj\Debug\Constructer.pdb
+C:\Users\Anjan\source\Dotnet\Constructer\Constructer\obj\Debug\Constructer.exe.config

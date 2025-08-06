@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anjan\\source\\Dotnet\\Event handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F17E7B15-E522-4B47-A689-0E0BA41426FD}|Event handling\\Event handling.csproj|c:\\users\\anjan\\source\\dotnet\\event handling\\event handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17E7B15-E522-4B47-A689-0E0BA41426FD}|Event handling\\Event handling.csproj|solutionrelative:event handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anjan\\source\\Dotnet\\Event handling\\Event handling\\Program.cs",
+              "RelativeDocumentMoniker": "Event handling\\Program.cs",
+              "ToolTip": "C:\\Users\\Anjan\\source\\Dotnet\\Event handling\\Event handling\\Program.cs*",
+              "RelativeToolTip": "Event handling\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T03:59:17.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

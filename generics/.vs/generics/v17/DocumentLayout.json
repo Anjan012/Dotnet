@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anjan\\source\\Dotnet\\generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4AA52-4DCA-446F-8CEC-873E63EB535B}|generics\\generics.csproj|c:\\users\\anjan\\source\\dotnet\\generics\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4AA52-4DCA-446F-8CEC-873E63EB535B}|generics\\generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anjan\\source\\Dotnet\\generics\\generics\\Program.cs",
+              "RelativeDocumentMoniker": "generics\\Program.cs",
+              "ToolTip": "C:\\Users\\Anjan\\source\\Dotnet\\generics\\generics\\Program.cs",
+              "RelativeToolTip": "generics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:39:23.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anjan\\source\\Dotnet\\optional parameter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38E7C20-0827-41FE-9DF6-64BC3B7F6FF7}|optional parameter\\optional parameter.csproj|c:\\users\\anjan\\source\\dotnet\\optional parameter\\optional parameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38E7C20-0827-41FE-9DF6-64BC3B7F6FF7}|optional parameter\\optional parameter.csproj|solutionrelative:optional parameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anjan\\source\\Dotnet\\optional parameter\\optional parameter\\Program.cs",
+              "RelativeDocumentMoniker": "optional parameter\\Program.cs",
+              "ToolTip": "C:\\Users\\Anjan\\source\\Dotnet\\optional parameter\\optional parameter\\Program.cs",
+              "RelativeToolTip": "optional parameter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:16:50.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
