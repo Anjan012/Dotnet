@@ -1,0 +1,7 @@
+C:\Users\Anjan\source\Dotnet\multi diemsional array\multi diemsional array\bin\Debug\multi diemsional array.exe.config
+C:\Users\Anjan\source\Dotnet\multi diemsional array\multi diemsional array\bin\Debug\multi diemsional array.exe
+C:\Users\Anjan\source\Dotnet\multi diemsional array\multi diemsional array\bin\Debug\multi diemsional array.pdb
+C:\Users\Anjan\source\Dotnet\multi diemsional array\multi diemsional array\obj\Debug\multi diemsional array.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\multi diemsional array\multi diemsional array\obj\Debug\multi diemsional array.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\multi diemsional array\multi diemsional array\obj\Debug\multi diemsional array.exe
+C:\Users\Anjan\source\Dotnet\multi diemsional array\multi diemsional array\obj\Debug\multi diemsional array.pdb

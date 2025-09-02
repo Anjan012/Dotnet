@@ -1,0 +1,7 @@
+C:\Users\Anjan\source\Dotnet\enum_p1\enum_p1\bin\Debug\enum_p1.exe.config
+C:\Users\Anjan\source\Dotnet\enum_p1\enum_p1\bin\Debug\enum_p1.exe
+C:\Users\Anjan\source\Dotnet\enum_p1\enum_p1\bin\Debug\enum_p1.pdb
+C:\Users\Anjan\source\Dotnet\enum_p1\enum_p1\obj\Debug\enum_p1.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\enum_p1\enum_p1\obj\Debug\enum_p1.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\enum_p1\enum_p1\obj\Debug\enum_p1.exe
+C:\Users\Anjan\source\Dotnet\enum_p1\enum_p1\obj\Debug\enum_p1.pdb

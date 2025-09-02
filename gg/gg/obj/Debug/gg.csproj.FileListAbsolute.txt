@@ -1,0 +1,7 @@
+C:\Users\Anjan\source\Dotnet\gg\gg\bin\Debug\gg.exe.config
+C:\Users\Anjan\source\Dotnet\gg\gg\bin\Debug\gg.exe
+C:\Users\Anjan\source\Dotnet\gg\gg\bin\Debug\gg.pdb
+C:\Users\Anjan\source\Dotnet\gg\gg\obj\Debug\gg.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\gg\gg\obj\Debug\gg.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\gg\gg\obj\Debug\gg.exe
+C:\Users\Anjan\source\Dotnet\gg\gg\obj\Debug\gg.pdb

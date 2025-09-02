@@ -1,0 +1,7 @@
+C:\Users\Anjan\source\Dotnet\static binding\static binding\bin\Debug\static binding.exe.config
+C:\Users\Anjan\source\Dotnet\static binding\static binding\bin\Debug\static binding.exe
+C:\Users\Anjan\source\Dotnet\static binding\static binding\bin\Debug\static binding.pdb
+C:\Users\Anjan\source\Dotnet\static binding\static binding\obj\Debug\static binding.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\static binding\static binding\obj\Debug\static binding.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\static binding\static binding\obj\Debug\static binding.exe
+C:\Users\Anjan\source\Dotnet\static binding\static binding\obj\Debug\static binding.pdb

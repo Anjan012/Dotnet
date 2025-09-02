@@ -1,0 +1,8 @@
+C:\Users\Anjan\source\Dotnet\unary and relational operator\unary and relational operator\bin\Debug\unary and relational operator.exe.config
+C:\Users\Anjan\source\Dotnet\unary and relational operator\unary and relational operator\bin\Debug\unary and relational operator.exe
+C:\Users\Anjan\source\Dotnet\unary and relational operator\unary and relational operator\bin\Debug\unary and relational operator.pdb
+C:\Users\Anjan\source\Dotnet\unary and relational operator\unary and relational operator\obj\Debug\unary and relational operator.csproj.AssemblyReference.cache
+C:\Users\Anjan\source\Dotnet\unary and relational operator\unary and relational operator\obj\Debug\unary and relational operator.csproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\Dotnet\unary and relational operator\unary and relational operator\obj\Debug\unary and relational operator.exe
+C:\Users\Anjan\source\Dotnet\unary and relational operator\unary and relational operator\obj\Debug\unary and relational operator.pdb
+C:\Users\Anjan\source\Dotnet\unary and relational operator\unary and relational operator\obj\Debug\unary and relational operator.exe.config
